@@ -96,7 +96,7 @@ body .header_top{
 .header_top{
     background-size: cover;
     padding: 0 15px;
-    width: 1356px;
+    width: 1326px;
     margin-right: auto;
     margin-left: auto;
     height: 131px;
@@ -238,9 +238,13 @@ body .header_top{
 
 
 }
+.scroll a{
+    text-decoration: none;
+}
 .scroll p{
     padding-top: 7px;
     opacity: .5;
+    color: #ffffff;
 }
 .scroll {
     opacity: .6;
