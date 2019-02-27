@@ -80,11 +80,11 @@ table {
     -webkit-background-clip: text;
 }
 .wraper{
-    width: 1326px;
+    width: 100%;
     margin-right: auto;
     margin-left: auto;
     background-position: 50% 100%;
-    padding: 0 15px;
+    padding: 0 300px;
     background-position-x: 100%;
 }
 body{
@@ -216,21 +216,26 @@ body .header_top{
 }
 .header_now a:last-child {
     border: 1px solid #e88462;
-    padding: 15px 5px 16px 2px;
+    padding: 15px 31px 16px 0px;
 }
-.header_now span{
-    padding-left: 19px;
-    padding-right: 24px;
+.header_now span {
+    padding-left: 10px;
+    padding-right: 9px;
+    vertical-align: top;
 }
-.poligon{
-    margin-bottom: -3px;
-    padding-left: 30px;
+.play {
+    display: inline-block;
+    font-size: 0;
+    border-style: solid;
+    border-width: 8.5px 0 8.5px 14px;
+    border-color: transparent transparent transparent #ffffff;
+    margin-left: 30px;
 }
 .header_now a:nth-child(odd):hover{
     border: 1px solid #e88462;
     background: rgba(255,255,255, 0.2 );
     color: white;
-
+    padding: 15px 53px 15px 52px;
 }
 .header_now a:last-child:hover {
     background: rgba(255,255,255, 0.2 );
