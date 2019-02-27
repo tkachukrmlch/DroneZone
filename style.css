@@ -164,7 +164,7 @@ body .header_top{
 .masthead {
     padding-top: 299px;
     margin-top: -131px;
-    background: url(./images/dronezone-final_01.jpg) no-repeat 50% 100%;
+    background: url(./images/header.jpg) no-repeat 50% 100%;
     background-size: cover;
     height: 1081px;
     background-position: 50% 100%;
@@ -317,7 +317,7 @@ body .header_top{
 }
 .drone-counter {
      background-position: right;
-     background-image: url("./images/dronezone-final_11.jpg");
+     background-image: url("./images/drone.jpg");
      background-repeat: no-repeat;
      background-size: contain;
  }
@@ -394,7 +394,7 @@ body .header_top{
  }
 
 .nature-img{
-    background-image: url("./images/nature_13.jpg");
+    background-image: url("./images/nature.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 642px;
@@ -439,7 +439,7 @@ margin-right: 78px;
     overflow: hidden;
 }
 .city-img{
-    background-image: url("./images/cyty_16.jpg");
+    background-image: url("./images/city.jpg");
     float: right;
     height: 642px;
     width: 50%;
@@ -449,7 +449,7 @@ margin-right: 78px;
     height: 490px;
     background-size: cover ;
     background-repeat: no-repeat;
-    background-image: url("./images/final_17.jpg");
+    background-image: url("./images/back_form.jpg");
     text-align: center;
 }
 
@@ -502,7 +502,7 @@ margin-right: 78px;
 }
 .map {
     background-position: center;
-    background-image: url(./images/map_18.jpg);
+    background-image: url(./images/map.jpg);
     background-size: cover;
     height: 605px;
     width: 100%;
