@@ -93,9 +93,12 @@ body{
 body .header_top{
     overflow: hidden;
 }
+.header{
+    position: absolute;
+    padding: 0 15px;
+}
 .header_top{
     background-size: cover;
-    padding: 0 15px;
     width: 1326px;
     margin-right: auto;
     margin-left: auto;
@@ -163,7 +166,6 @@ body .header_top{
 }
 .masthead {
     padding-top: 299px;
-    margin-top: -131px;
     background: url(./images/header.jpg) no-repeat 50% 100%;
     background-size: cover;
     height: 1081px;
@@ -410,10 +412,6 @@ body .header_top{
     width: 50%;
     float: left;
 margin-right: 78px;
-}
-
-.content{
-
 }
 .info {
     display: inline-block;
